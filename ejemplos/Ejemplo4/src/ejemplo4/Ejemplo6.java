@@ -26,7 +26,9 @@ public class Ejemplo6 {
         // J    2 
         // A    3
         // 
-        String inicial = ciudad.substring(0, 1); // se obtiene 
+        String inicial = ciudad.substring(0, 1); //el substring 
+        //lo usamos para sacar caracteres epecificos de una cadena 
+        // se obtiene 
         // el primer 
         // caracter de la cadena
         // Si el valor de ciudad es 
