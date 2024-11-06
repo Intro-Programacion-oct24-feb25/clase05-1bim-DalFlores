@@ -26,7 +26,7 @@ public class Ejemplo {
     
     public static void main(String[] args) {
         // Variable
-        Scanner entrada = new Scanner(System.in);
+        Scanner entrada = new Scanner(System.in); 
         entrada.useLocale(Locale.US);
         
         double gradosCentigrados;
